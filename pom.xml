@@ -19,10 +19,6 @@
   </properties>
 
   <dependencies>
-  <dependency>
-    <groupId>io.jenkins.plugins</groupId>
-    <artifactId>pipeline-groovy-lib</artifactId>
-</dependency>
    <dependency>
   <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
     <groupId>com.mysql</groupId>
